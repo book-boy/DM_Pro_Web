@@ -130,6 +130,9 @@ h2 {
   left: 50%;
   margin-left: -14px;
 }
+#header ul li a:hover{
+ color:#00b5e5
+}
 
 .language a {
   transition: opacity 0.5s;
